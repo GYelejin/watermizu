@@ -26,7 +26,7 @@ var data = [{
 
 var layout = {
   height: 820,
-  width: 600
+  width: 500
 };
 
 Plotly.newPlot('Chart1', data, layout);
